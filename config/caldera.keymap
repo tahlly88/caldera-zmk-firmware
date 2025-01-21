@@ -34,7 +34,6 @@
    &trans    &trans         &trans         &trans         &trans         &trans                 &trans    &trans    &trans   &trans   &trans  &trans
                         >;
                 };
-        };
         extra1 {
             status = "reserved";
         };
@@ -47,5 +46,5 @@
         extra4 {
             status = "reserved";
         };
-        };
+    };
 };
